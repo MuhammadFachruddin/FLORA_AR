@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="semar" size="50.000000 50.000000" />
+    <ImageTarget name="raflesia" size="50.000000 50.000000" />
+    <ImageTarget name="edelwies" size="50.000000 50.000000" />
+    <ImageTarget name="bangkai" size="50.000000 50.000000" />
+    <ImageTarget name="angrek" size="50.000000 50.000000" />
+  </Tracking>
+</QCARConfig>
